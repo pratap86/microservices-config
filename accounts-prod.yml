@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to NarayanBank accounts related Prod APIs "
+  contactDetails:
+    name: "Sanchita Dwivedi - Product Owner"
+    email: "sanchita.dwivedi@test.com"
+  onCallSupport:
+    - (777) 777-1234
+    - (777) 723-1345
