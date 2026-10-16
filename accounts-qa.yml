@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to NarayanBank accounts related QA APIs "
+  contactDetails:
+    name: "Abhay P Singh - QA Leads"
+    email: "abhay.p.singh@test.com"
+  onCallSupport:
+    - (666) 666-1234
+    - (666) 623-1345
