@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to NarayanBank loans related QA APIs "
+  contactDetails:
+    name: "Kamlesh P Nishad - QA Leads"
+    email: "kamlesh.p.nishad@test.com"
+  onCallSupport:
+    - (999) 999-1234
+    - (999) 923-1345
