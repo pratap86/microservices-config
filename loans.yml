@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to NarayanBank loans related Dev APIs "
+  contactDetails:
+    name: "Rashmi Gupta - Developer"
+    email: "rashmi.gupta@test.com"
+  onCallSupport:
+    - (888) 888-1234
+    - (888) 823-1345
