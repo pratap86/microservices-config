@@ -1,8 +1,8 @@
 build:
-  version: "1.0"
+  version: "1.1.0"
 
 accounts:
-  message: "Welcome to NarayanBank accounts related Prod APIs "
+  message: "Welcome to NarayanBank accounts related Production APIs "
   contactDetails:
     name: "Sanchita Dwivedi - Product Owner"
     email: "sanchita.dwivedi@test.com"
