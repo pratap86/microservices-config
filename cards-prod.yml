@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to NarayanBank cards related Prod APIs "
+  contactDetails:
+    name: "Manshi Mishra - Product Owner"
+    email: "manshi.mishra@test.com"
+  onCallSupport:
+    - (222) 222-1234
+    - (222) 223-1345
