@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NarayanBank cards related Prod APIs "
+  message: "Welcome to NarayanBank cards related Prod1.0 APIs "
   contactDetails:
     name: "Manshi Mishra - Product Owner"
     email: "manshi.mishra@test.com"
