@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to NarayanBank loans related Prod APIs "
+  message: "Welcome to NarayanBank loans related Prod1.0 APIs "
   contactDetails:
     name: "Deepti Mishra - Product Owner"
     email: "deepti.mishra@test.com"
