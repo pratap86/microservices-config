@@ -2,7 +2,7 @@ build:
   version: "1.1.0"
 
 accounts:
-  message: "Welcome to NarayanBank accounts related Production APIs "
+  message: "Welcome to NarayanBank accounts related Prod_V1.0.0 APIs "
   contactDetails:
     name: "Sanchita Dwivedi - Product Owner"
     email: "{cipher}AQChyUAGaagklzP29ZVz+PZ6aYs58jxipO9bIeMYvg/3Vg+GFRiMw/c11CUif2wbptB5JpkeLyfY9rtR1LaS/ZpsfX8clbSP4k/5CFD3NuEEpWbORzc1KMbpfoI2WQD/lxgJZiHHStll67zMzuRbA36nJy8Scm0Bqhr6TnlJ5w7T+n3zIZt1A8dYT4YkNXnOtyKB0yAu8RBK2MZIQ4WMlh6jgOtmSfNF5p/8Px4yJUIjZf1VW9H89vrOc9eR/8BvTBhDdacUaO4ztLMAR/YgNgdDEhWo9KXpQJ04AenMGvrtpcUmIaAOd1BLZu6wv95P5tpz3DhQdHEzqxCzeliX3nLI3m20nH+F8yoInc+ag6MK2dr5Zax7rV0jBzu37feHa0O+8nuY/eOtALgz49OtZq6y"
